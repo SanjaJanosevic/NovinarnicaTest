@@ -6,8 +6,8 @@ import org.openqa.selenium.support.FindBy;
 
 public class LoginPage extends BasePage{
 
-    private String email = "bucimirka@gmail.com";
-    private String password = "Bongo123";
+    private String email = "***@gmail.com";
+    private String password = "***";
 
 
     @FindBy(xpath = "//input[@id='loginformmodel-username']")
